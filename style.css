@@ -39,7 +39,7 @@ ul {
 
 
 .container-c {
-  width: 300px; 
+  width: 5000px; 
   display: flex;
   flex-flow: row nowrap;
   align-items: center;
