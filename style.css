@@ -3,6 +3,7 @@ body {
 }
 
 h1 {
+  font-family: cursive;
   font-size: 100px;
   font-weight: bold;
   color: #a354ba;
@@ -10,6 +11,7 @@ h1 {
 }
 
 p {
+  font-family: cursive;
   font-size: 30px;
 }
 
