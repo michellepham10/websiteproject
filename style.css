@@ -1,7 +1,5 @@
 body {
   background: #e8ecff;
-  margin-left: 100px; 
-  margin-right: 100px;
 }
 
 h1 {
@@ -21,6 +19,8 @@ h2 {
 h6 {
   font-family: cursive;
   font-size: 25px;
+  margin-left: 100px; 
+  margin-right: 100px;
 }
 
 p {
