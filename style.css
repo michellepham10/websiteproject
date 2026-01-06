@@ -1,1 +1,20 @@
+body {
+  background: pink;
+}
 
+h1 {
+  font-size: 150px;
+  font-weight: bold;
+  color: #a354ba;
+  text-align: center;
+}
+
+img {
+ width: 100px; 
+} 
+
+.video-container {
+  display: flex;
+  justify-content: center;
+  align-content: center;
+}
