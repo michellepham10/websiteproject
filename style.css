@@ -48,7 +48,10 @@ ul {
 }
 
 .container-c img {
-  width: 300px;
+  width: 200px;
+  margin: 20px;
+  border: 5px solid black; 
+  border-radius: 5px; 
 }
 
 img {
